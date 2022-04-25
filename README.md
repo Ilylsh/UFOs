@@ -4,14 +4,14 @@
 Dana is building a website, including the news about UFOs and data of UFOs sighting. The purpose of the project is to help Dana enable further filter and search function on the UFOs sighting, allowing users to filter city, state, country, ufo shape, in addition to the date. 
 
 ## Results
-- After adding more criteria into the Filter Search function, we will be able to further filter the UFO sighting data.
+After adding more criteria into the Filter Search function, we will be able to further filter the UFO sighting data.
 ### Start filtering by date
-- It will be easier to eliminiate the huge amount of data by starting with a specific date.We can input the data according to the one shown in the original data. For example: input "1/5/2010".
+It will be easier to eliminiate the huge amount of data by starting with a specific date.We can input the data according to the one shown in the original data. For example: input "1/5/2010".
 ![filter_date](filter_date.png)
 <br> By filtering date, we successfully narrow 111 rows of data into 7.
 
 ### Select more criteria to filter more
-- After date, we can further select either one of the criteria to further narrow down the search result. For example: "State". We can see the detailed info under each selected state. For example: let's input "nj" to view the info in New Jersey.
+After date, we can further select either one of the criteria to further narrow down the search result. For example: "State". We can see the detailed info under each selected state. For example: let's input "nj" to view the info in New Jersey.
 ![filter_state](filter_state.png)
 <br> By selecting the second criteria, we further narrow down to 2 lines of data.
 
