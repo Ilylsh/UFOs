@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview of Project
-Dana is building a website, including the news about UFOs and data of UFOs sighting. The purpose of the project is to help Dana enable further filter and search function on the UFOs sighting, allowing users to filter city, state, country, ufo shape, in addition to the date. 
+The client is building a website, including the news about UFOs and data of UFOs sighting. The purpose of the project is to help our client enable further filter and search function on the UFOs sighting, allowing users to filter city, state, country, ufo shape, in addition to the date. 
 
 ## Results
 After adding more criteria into the Filter Search function, we will be able to further filter the UFO sighting data.
